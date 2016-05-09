@@ -78,8 +78,3 @@ public void draw()
 {
     //empty!
 }
-
-
-
-
-
